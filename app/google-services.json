@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109004359189",
+    "project_id": "screenkids-haonlabs",
+    "storage_bucket": "screenkids-haonlabs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109004359189:android:b9aeb332c1fcf1f223301c",
+        "android_client_info": {
+          "package_name": "id.haonlabs.screenkids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FP-52xrZewzUeJ3dEOZdgWx9C0CjUA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
